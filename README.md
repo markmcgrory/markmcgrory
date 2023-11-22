@@ -1,4 +1,4 @@
-### Hello, I'm Mark - a junior software developer.
+### Hello, I'm Mark - a junior software developer. More to come soon.
 
 <!--
 **markmcgrory/markmcgrory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
